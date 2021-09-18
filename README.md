@@ -1,6 +1,6 @@
 # sri_portfolio
 Personal Data Science portfolio
 
-#Education
+# Education
 
-#Publications
+# Publications
